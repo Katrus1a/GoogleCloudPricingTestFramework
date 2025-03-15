@@ -16,7 +16,7 @@ This project is an automated test framework for validating the **Google Cloud Pl
  **Screenshot capturing on test failure** – stores test evidence for debugging.  
  **Parallel execution support** – executes tests efficiently across multiple browsers.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Java** – Core language for test automation.
 - **Selenium WebDriver** – Browser automation.
