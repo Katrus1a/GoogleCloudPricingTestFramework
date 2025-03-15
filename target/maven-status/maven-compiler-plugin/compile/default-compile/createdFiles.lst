@@ -1,0 +1,3 @@
+pages\CalculatorPage.class
+utils\WebDriverFactory.class
+pages\CloudHomePage.class
