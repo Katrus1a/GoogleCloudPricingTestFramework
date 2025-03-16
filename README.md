@@ -1,4 +1,4 @@
-# GoogleCloudPricingTestFramework
+# GCP Automation Testing
 Google Cloud Pricing Test Framework
 
 This project is an automated test framework for validating the **Google Cloud Platform Pricing Calculator**. The framework automates:
